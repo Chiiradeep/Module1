@@ -116,12 +116,36 @@ b=int(input())
 x=complex(a,b)
 print(x)
 print(x.real)
+print(x.imag)
+
 ~~~
 
 ## Output
-![image](https://github.com/user-attachments/assets/606f8360-2acf-459c-8d48-4d8d9f387ef1)
+![image](https://github.com/user-attachments/assets/ebaa0ab7-b903-475f-b788-484eaaf83a1a)
+
 
 
 ## Result
  a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is 
 successful.
+
+---
+
+# Datatypes-Read and Print a String in Python
+
+## 🎯 Aim
+To write a Python program to read a string from the user and then print it.
+
+## 🧠 Algorithm
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
+
+## 🧾 Program
+~~~python
+
+~~~
+
+## Output
+
+## Result
