@@ -70,6 +70,28 @@ print("d:",d)
 
  ---
  
+# Datatypes-Character Literal in Python
 
+## 🎯 Aim
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+
+## 🧠 Algorithm
+1. Print the character `'T'`.
+2. Print the character `'a'`.
+
+## 🧾 Program
+~~~python
+v = 'T'
+w = "a"
+print(v)
+print(w)
+~~~
+## Output
+![image](https://github.com/user-attachments/assets/0255541f-e2f5-4241-9e0b-6acee8a41614)
+
+
+## Result
+a Python program that prints the characters `'T'` and `'a'` using character literals is successful.
+---
 
  
