@@ -143,9 +143,15 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ~~~python
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
 
 ~~~
 
 ## Output
+![image](https://github.com/user-attachments/assets/885014d9-2a70-4e8e-9b3e-115915ad698e)
+
 
 ## Result
+a Python program to read a string from the user and then print it is successful.
+
